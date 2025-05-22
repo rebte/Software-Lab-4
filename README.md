@@ -12,3 +12,9 @@
 ```bash
 pip install -r requirements.txt
 "# Software-Lab-4" 
+
+```
+## Посилання на дизайн-документ проєкту:
+https://docs.google.com/document/d/1FFeJGycmziMYTd9g8G8rn5_CJZfHiKkTHhgtZ7zptNs/edit?usp=sharing
+
+
